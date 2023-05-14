@@ -1,0 +1,59 @@
+[
+    {
+      "id":1,
+      "title": "Subsea Engineering",
+      "desc":"We perform Subsea Inspection and Maintenance activities using Remotely Operated Vehicles (ROV), design and installation of equipment and structures below the surface of the sea, we provide technical and engineering support and guidance to offshore or on site teams, manages the installation of wellheads on the seabed and the flowlines joining them to the platform, management of all subsea workscopes related to an asset, including the management of contractors/suppliers for the workscope. Our technical team are well equiped and are profesionals in the field.", 
+      "link": "../home/service.php?id=1",
+      "bg":"../../../assets/service1.png"
+    },
+{
+      "id":2,
+      "title": "Offshore Installation",
+      "desc":"At Tallsea we have team of experts who are specialize in handling installation of facilities in the offshore marine environment this comprise of subsea installation and pipeline laying projects, well-head installation and maintenance, fabrication on vessle etc", 
+      "link": "../home/service.php?id=2",
+      "bg":"../../../assets/service2.png"
+    },
+{
+      "id":3,
+      "title": "Subsea maintenance services",
+      "desc":"Subsea inspection, maintenance, and repair (IMR) are key components within an overall integrity management system. Inspection of systems can provide assistance in identifying areas of inprovement or noncompliance. The maintenance plan is the pathway for equipment to maintain the longevity that it was originally designed for, or even extend service life. The repair component of an IMR plan integrates directly into the maintenance plan and can proactively identify the need to replace or modify damaged or worn out portions of a system to assist the overall operational function, and extend the operating lifespan. Certain IMR techniques along with increased technological advances can greatly benefit equipment installed permanently in deep, harsh, and extremely remote environments. Our subsea intervention and maintenance operations typically include:Inspection, Repair, Maintenance, Integrity Management using Air and Saturation Diving and ROV Vessel based Seabed Surveys, and ROV Detailed Seabed, Pre and Post Laid Pipeline, Umbilical and Cable Inspection Surveys. Structural Inspections, Cable and Pipeline Inspection, Remotely Operated Tool Operation, scale squeeze operations and Maintenance of Subsea Systems.Repair of Subsea Systems, Pipeline Commissioning and Construction Support.", 
+      "link": "../home/service.php?id=3",
+      "bg":"../../../assets/service3.png"
+    },
+{
+      "id":4,
+      "title": "Construction Services",
+      "desc":" At Tallsea Integrated Service Ltd, We have unique expertise in the management of subsea construction services. Our expertise in the Procurement, Construction project management and commissioning processes enables us to deliver projects to customer satisfaction while maintaining the highest standards in Safety and Quality. Our approach to project management in construction and commissioning begins with forming partnerships with our clients and taking ownership of the projects to ensure excellent service delivery. We utilize proven tools and procedures and provide available facilities for project teams. We are experienced in managing tasks, resources, costs and schedules and companies from pre commissioning to commissioning phase of the projects.", 
+      "link": "../home/service.php?id=4",
+      "bg":"../../../assets/service4.png"
+    },
+{
+      "id":5,
+      "title": "Procurement Services",
+      "desc":"We specialize in the procurement and leasing of industrial equipments and mechinery use in the oil and gas sector such as Remotely operated vehicle of different class, sub-buttom profiler, side scan sonar, magnetometer, motion sensors, tide guage, GPS, USBL, Air compressors, Winch, Heavy duty mechineries etc.", 
+      "link": "../home/service.php?id=5",
+      "bg":"../../../assets/service5.png"
+    }, 
+{ 
+      "id":6,
+      "title": "Drill Support Operation",
+      "desc":"This range from Exploration Drilling where the ROV provide a basic level of observation and inspection, through Development or Production Drilling where the ROV is often the Primary means of intervention for highly complex tasks. Our work class ROV are often used for deploying specialist tools and modules.", 
+      "link": "../home/service.php?id=6",
+      "bg":"../../../assets/service6.png"
+    }, 
+{
+      "id":7,
+      "title": "Offshore Vessle Service",
+      "desc":"At Tallsea we provide offshore vessle leasing services that serve operational purposes such as oil exploration and construction work at the high seas to clients. There are a variety of offshore vessels, which not only help in exploration and drilling of oil but also for providing necessary supplies to the excavation and construction units located at the high seas. We can make available vessles such as Drill ship, Jack Up Vessels, Semi-submersible Vessels, Offshore barge, Floating Platforms,Tenders, Diving Support Vessel,Crane Vessel, Pipe Laying Vessel etc.", 
+      "link": "../home/service.php?id=7",
+      "bg":"../../../assets/service7.png"
+    }, 
+{
+      "id":8,
+      "title": "Manpower supply",
+      "desc":"We have team of highly experience personnel both locally and international, who are expertise in different fields of the oil and gas sectors; We have personnel in the Remotely Operated Vehicle(ROV) industry, Surveys, Logistics and Procurement, Industrial welding/Fabrication, Mechanical and Electrical sector etc.", 
+      "link": "../home/service.php?id=8",
+      "bg":"../../../assets/service8.png"
+    }   
+           
+]

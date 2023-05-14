@@ -1,0 +1,12 @@
+[
+    {
+"id":1,
+"name":"Contact Us",
+"link": "/contact"
+    },
+ {
+"id":2,
+"name":"Careers", 
+"link": "/careers"
+    }
+]

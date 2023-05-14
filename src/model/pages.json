@@ -1,0 +1,14 @@
+[
+    {"id":1,
+        "name": "HOME",
+    "link":"/"
+    },
+    {"id":2,
+    "name": "ABOUT US",
+    "link":"/about"
+    },
+    {"id":3,
+    "name": "CONTACT",
+    "link":"/contact"
+    }
+    ]

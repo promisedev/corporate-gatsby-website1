@@ -1,0 +1,21 @@
+
+[
+    {"id":1,
+    "image":"../../../../assets/about3.png"
+    },
+{"id":2, 
+    "image":"../../../../assets/about4.png"
+    },
+{"id":3,
+    "image":"../../../../assets/about1.png"
+    },
+{"id":4,
+    "image":"../../../../assets/about2.png"
+    },    
+{"id":5,
+    "image":"../../../../assets/about5.png"
+    }, 
+{"id":6,
+    "image":"../../../../assets/about6.png"
+    }
+]

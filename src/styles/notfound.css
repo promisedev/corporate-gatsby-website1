@@ -1,0 +1,11 @@
+
+.notfound{ width:100%; height:100vh; 
+    background-color: rgb(255, 255, 255); display:flex; flex-direction:column}
+.notfound_item{ width:100%; height:70%; background-color: none;
+display:flex; align-items: center; justify-content: center; flex-direction:column;}
+.notfound_image{ width: 250px; height: 120px;}
+.notfound_image>img{width: 100%; height:100%;}
+.notfound_text{ font-size: 25px; margin-top: 20px; font-weight: bold;}
+.notfound_button{margin-top: 20px; width: fit-content; padding: 3px 10px 3px 10px; border-radius: 20px; display:flex; align-items: center; justify-content:center; font-size: 14px; border:  1px solid rgb(4, 1, 26); color:rgb(4, 1, 26); transition: 0.6s ease-in-out; cursor: pointer; text-decoration: none;}
+.notfound_button>.MuiSvgIcon-root{ font-size:12px}
+.notfound_button:hover{background-color: rgb(4, 1, 26); color: #fff; transition:0.5s ease-in-out;}

@@ -1,0 +1,18 @@
+[
+    {
+"id":1,
+"bg":"../../../assets/project1.png",
+"title":"SEA EAGLE FPSO LEAK REPAIR AND INSTALLATION OF MAGNETIC PLATE",
+"location":"Sea Eagle Field, Nigeria.",
+"vessel":"POSLEDON EXPRESS",
+"rov":"Mojave Rov."
+    },
+{
+"id":2,
+"bg":"../../../assets/project2.png",
+"title":"INSPECTION OF MYSTRA AND SUBSEA STRUCTURES OF OKONO FIELD",
+"location":"Okono field, Nigeria.",
+"vessel":"POSLEDON EXPRESS",
+"rov":"Seaeye Cougar"
+    }   
+]

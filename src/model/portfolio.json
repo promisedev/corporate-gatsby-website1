@@ -1,0 +1,38 @@
+
+[
+    {
+  "portfolio":[{"id":1,
+  "portfolio":"../../../assets/s1_port1.png"},  
+{"id":2,
+"portfolio":"../../../assets/s1_port2.png"}, 
+{"id":3,
+"portfolio":"../../../assets/s1_port3.png"},
+{"id":4,
+"portfolio":"../../../assets/s1_port4.png"}
+],
+
+"list":[
+  {"id":1,
+  "list":"EXXON MOBILE"},
+  {"id":2,
+  "list":"SHARAWAK SHELL BERHAD"},
+  {"id":3,
+  "list":"PATRA DINAMIKA"},
+{"id":4,
+"list":"IONEER PEGASUS"},
+{"id":5,
+"list":"SIGUR ROS"},
+{"id":6,
+"list":"BUMIAMADA"},
+{"id":7,
+"list":"SAPURAKENKANA PETROLEUM"},
+{"id":8,
+"list":"PIT EXPLORATION AND PRODUCTION COMPANY LIMITED"},
+{"id":9,
+"list":"TALISMAN ENERGY"},
+{"id":10,
+"list":"HYDRODIVE"}
+],
+"port_desc":"We are highly experienced in conducting major Pipeline Inspection, survey inspection, Maintenance and Repair, Construction Support, Seabed Survey, Pipe Laying, Platform Inspection and Freespan correction. We have good track record of delivering quality services to our clients.we have work with top companies like; "
+}
+]

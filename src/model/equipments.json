@@ -1,0 +1,15 @@
+
+
+ [
+    {"slug":"deep-trekker","image":"../../assets/deep-trekker.png","name":"Deep-trekker revolution",
+    "desc":"Tallsea's Deep Trekker ROV for underwater surveys and inspections, with an enhanced 4K camera and grabber to get the optimal angle depending on the task at hand. Sonar available,Laser available, suitable for both salt and fresh waters."
+    },{"slug":"gemni","image":"../../assets/gemni.png","name":"720is gemni",
+    "desc":"Tritech’s Gemini 720is multibeam imaging sonar provides users with real-time, crisp imagery for applications including obstacle avoidance, target detection, and close-range inspection. With a 120 degree field of view  and a fast update rate of 30Hz."
+    },{"slug":"laser","image":"../../assets/laser.png","name":"imenco/seatronics/RTS green laser",
+    "desc":"RTS Green Laser is intended for ROV use only where measurements are needed from video images. The green light ensures good visibility even at long distances due to less absorption of green light in water. The RTS Green line laser produces a straight green light with uniform intensity over long range, made possible by its wavelenght enabling maximium water penetration."
+    },{"slug":"pipe-tracker","image":"../../assets/pipe-tracker.png","name":"Innovatum Smartrack",
+    "desc":"INNOVATUM SMARTRAK offers passive magnetic, active AC and active DC tracking techniques in a single unit allowing the user to change modes at the push of a button rather than a lengthy re-configuration.Innovatum SMARTRAK is designed to be fitted to ROVs, AUVs, Towed Bodies and surface vessels.The system is compact but performance has not been compromised and these units show much greater accuracy and stability than previous magnetic tracking tools."
+    },{"slug":"video-ray","image":"../../assets/video-ray.png","name":"video-ray rov",
+    "desc":"There is always an ROV for your budget, Our  Mini Video Ray Rov is suitable for your subsea inspection jobs, it comes with support for add-ons like Cathodic probe (CP), Sonar, beacons, etc."
+    }
+]

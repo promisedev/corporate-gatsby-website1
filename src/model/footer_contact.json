@@ -1,0 +1,18 @@
+[
+    { "id":1,
+"icon":"../../../assets/phone2.png",
+"desc":"(+234) 803 099 1254",
+"link":""
+},
+  { "id":2,
+"icon":"../../../assets/email.png",
+"desc":"projects@tallseaintegrated.com",
+"link":""
+},
+ { "id":3,
+"icon":"../../../assets/place2.png",
+"desc":"Port Harcourt, Nigeria.",
+"link":"https://goo.gl/maps/JnpXDYT6fZi1gW3q9"
+}
+
+]

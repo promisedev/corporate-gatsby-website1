@@ -1,0 +1,22 @@
+[
+{"id":1,
+"icon":"serve1.png",
+"name":"Served Clients",
+"count":87
+},
+{"id":2,
+"icon":"serve2.png",
+"name":"Completed Projects",
+"count":39
+},
+{"id":3,
+"icon":"serve3.png",
+"name":"Satisfied Clients",
+"count":37
+},
+{"id":4,
+"icon":"serve4.png",
+"name":"Certifications",
+"count":10
+}
+]

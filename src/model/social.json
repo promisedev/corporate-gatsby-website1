@@ -1,0 +1,21 @@
+[
+    {
+"id":1,
+"icon":"../../../assets/fa.png",
+"link": "https://facebook.com/tallseaintegrated/",
+"name":"facebook"
+    },
+    { 
+ "id":2,
+"icon":"../../../assets/tw.png",
+"link": "https://twitter.com/LimitedTallsea",
+"name":"twitter"
+    }, 
+{ 
+ "id":3,
+"icon":"../../../assets/lin.png",
+"link": "https://www.linkedin.com/in/tallsea-integrated-services-limited-b59005263/",
+"name":"linkedin"
+    }
+
+]

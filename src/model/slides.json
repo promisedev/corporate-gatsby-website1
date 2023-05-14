@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "bg": "slide1.png",
+    "overview": "We Provide Essential Services of International Standard",
+    "link": "/services/rov",
+    "ref": "rov",
+    "img": "tallsea_inspection.png",
+    "desc": "We render ROV inspection services, Pipe tracking, Pipeline repairs and maintenance etc. Our services are of International Standard, we observe strict safety protocol, and we have proven track record of project delivery."
+  },
+  {
+    "id": 2,
+    "bg": "slide3.png",
+    "overview": "Offshore Subsea Facility Inspection and Maintenance",
+    "link": "/services/inspection",
+    "ref": "inspection",
+    "img": "tallsea_maintenance.png",
+    "desc": "We perform Subsea Inspection and Maintenance activities using Remotely Operated Vehicles (ROV). Our technical team are well equiped and are professionals in the field. Our subsea intervention and maintenance operations typically include: Inspection, Repair, Maintenance, Integrity Management using Air and Saturation Diving and ROV Vessel based Seabed Surveys, and ROV Detailed Seabed, Pre and Post Laid Pipeline, Umbilical and Cable Inspection Surveys. Structural Inspections, Cable and Pipeline Inspection, Remotely Operated Tool Operation, scale squeeze operations and Maintenance of Subsea Systems. Repair of Subsea Systems, Pipeline Commissioning and Construction Support."
+  },
+  {
+    "id": 3,
+    "bg": "slide4.png",
+    "overview": "Onshore and Offshore Surveys",
+    "link": "/services/survey",
+    "ref": "survey",
+    "img": "tallsea_survey.png",
+    "desc": "We are experience in conducting Onshore and Offshore surveys such as onshore/offshore Seismic Survey, Remote Sensing, Seafloor Imaging using side scan sonar or sub-bottom profiler or both, Magnetic Survey using magnetometer, Pipeline tracking etc"
+  },
+  {
+    "id": 4,
+    "bg": "slide2.png",
+    "overview": "Pipeline Repair and maintenance",
+    "link": "/services/fabrication",
+    "ref": "fabrication",
+    "img": "tallsea_fabrication.png",
+    "desc": "There are thousands of miles of oil, natural gas, and refined products pipelines, transporting products from onshore and offshore oilfields to processing plants and refineries and ultimately to the end users. Proper maintenance of these pipelines is critical to safe and efficient operations. We are highly experienced in pipeline pigging, pipeline flushing, pipeline cleaning, pipeline presure testing, pipeline de-watering and drying, pipeline de-oiling etc."
+  }
+]

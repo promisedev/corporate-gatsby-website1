@@ -1,0 +1,36 @@
+
+[
+    {
+      "id":1,
+      "desc":"Major Pipeline Inspection" 
+    },
+{
+      "id":2,
+      "desc":"Survey Inspection" 
+    },
+{
+      "id":3,
+      "desc":"Maintenance and repair" 
+    },
+{
+      "id":4,
+      "desc":"Construction Support"  
+    },
+{
+      "id":5,
+      "desc":"Seabed survey" 
+    },   
+
+{
+      "id":6,
+      "desc":"Pipe laying "
+    },
+{
+      "id":7,
+      "desc":"Platform inspection "
+    },    
+{
+      "id":8,
+      "desc":"Freespan correction " 
+    }     
+]

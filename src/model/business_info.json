@@ -1,0 +1,21 @@
+[
+{"id":1,
+"icon":"../../../assets/phone1.png",
+"desc": "Call Us Today",
+"info":"(+234) 803 099 1254",
+"link":""
+},
+{"id":2,
+"icon":"../../../assets/clock.png",
+"desc": "Working Hours",
+"info":"Mon-Fri: 8am - 5pm",
+"link":""
+},
+{"id":3,
+"icon":"../../../assets/place.png",
+"desc": "#1 Ahoada Street Rumuibekwe,",
+"info":"Port Harcourt, Nigeria.",
+"link":"https://goo.gl/maps/JnpXDYT6fZi1gW3q9"
+}
+
+]
