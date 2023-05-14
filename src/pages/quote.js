@@ -222,7 +222,7 @@ const Quote = ({data,...props}) => {
 export default Quote;
 
 export const query = graphql`
-  query ($slug: String!) {
+  query ($slug: String) {
     contentfulTallseaEquipmentsSchema(slug: {eq: $slug}) {
       media {
         gatsbyImage(placeholder: BLURRED, quality: 100, width: 800)

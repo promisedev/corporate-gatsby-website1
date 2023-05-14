@@ -77,7 +77,7 @@ const equipPage = await graphql(
          context: {
            slug: `${node.ref}`,
          },
-       });
+       }); 
      });
 
   equipPage.data.allContentfulTallseaEquipmentsSchema.nodes.forEach((node) => {
