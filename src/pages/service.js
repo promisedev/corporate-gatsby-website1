@@ -187,7 +187,7 @@ export default Service
 
 
 export const query = graphql`
-  query ($slug: String!) {
+  query ($slug: String) {
     contentfulTallseaServicesSchema1(slug: {eq: $slug}) {
       description {
         raw
