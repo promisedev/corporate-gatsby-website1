@@ -85,7 +85,7 @@ html{scroll-behavior: smooth; transition: 1s ease;}
   display: flex;
   flex-direction: column;
   margin-top: 10%;
-  position: relative;
+  position: absolute;
   margin-left: 6%;
   align-items: center;
   border-radius: 20px;
