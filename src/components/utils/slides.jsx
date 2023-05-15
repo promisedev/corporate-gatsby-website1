@@ -51,7 +51,7 @@ const desc = slide?.excerpt?.substring(0,150)
         <article className="slides" style={{ top:`${index*100}%`,transform:`translateY(-${position*100}%)` }}  key={index}>
 <GatsbyImage image={image} className="slides_back" alt=""/>
 {/* ------------------------------------------ */}
-<article className="slide_text"> 
+<article className="slide_text">  
     <div className="txt txt1">{slide?.overview}</div>
     <div className="txt_description">{desc}...</div>
 <div className="slide_btn"><Link to={`/portfolio/${slide.ref}`}>Learn More</Link> </div>

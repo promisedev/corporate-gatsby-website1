@@ -92,6 +92,7 @@ html{scroll-behavior: smooth; transition: 1s ease;}
   align-items: center;
   border-radius: 20px;
   position: relative;
+  z-index:40
 }
 
 
